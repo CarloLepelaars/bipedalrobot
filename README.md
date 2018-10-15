@@ -12,6 +12,13 @@ Example video of one episode:
 " target="_blank"><img src="https://i9.ytimg.com/vi/iskHVlt0UBw/mq2.jpg?sqp=CPjkkt4F&rs=AOn4CLDIW9pwFBsKufSMMQL0pz_wUgLjhg" 
 alt="IMAGE ALT TEXT HERE" width="300" height="180" border="10" /></a>
 
+# Dependencies
+
+To use this model you have to install [OpenAI Gym](https://github.com/openai/gym) and the [Evostra repository](https://github.com/alirezamika/evostra) of [alirezamika](https://github.com/alirezamika):
+
+    pip install evostra
+    pip install gym
+
 # Training 
 Type in command line:
 
