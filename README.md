@@ -33,6 +33,8 @@ Type in command line:
     
 The program plays one episode. If you want to change the number of episodes, change the 'n' variable in agent_play.py.
 
+# Study material
+
 This repository was created as a midterm assignment for School of AI's "Move 37" course.
 
 For more information about the "Move 37" course check out:
