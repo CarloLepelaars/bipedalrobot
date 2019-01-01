@@ -10,7 +10,7 @@ Example video of one episode:
 
 <a href="https://www.youtube.com/watch?v=iskHVlt0UBw
 " target="_blank"><img src="https://i9.ytimg.com/vi/iskHVlt0UBw/mq2.jpg?sqp=CPjkkt4F&rs=AOn4CLDIW9pwFBsKufSMMQL0pz_wUgLjhg" 
-alt="IMAGE ALT TEXT HERE" width="300" height="180" border="10" /></a>
+alt="Video" width="300" height="180" border="10" /></a>
 
 # Dependencies
 
